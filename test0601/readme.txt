@@ -1,9 +1,10 @@
-1.Vue cli«Ø¥ß±M®×
-2.¤U¸übootstrap4©Msass loader
-2.²z¸ÑVue±M®×ªº¶i¤JÂI¬Osrc¸ê®Æ§¨ªºApp.vue
-3.²z¸Ñ<router-view>´è¬V­Ó§O¤¸¥ó
-4.²z¸Ñrouter¸ê®Æ§¨ªºindex.js©w¸q­Ó§O¸ô¥Ñ
-5.«Ø¥ß¸ô¥ÑcomponentªºCard¡BForm,¥[¤W­º­¶¦@¤T­¶(SPA)
-6.¤Ş¤Jbootstrap4«Ø¥ß­º­¶navbar¤¸¥ó
-7.¤Ş¤Jbootstrap4«Ø¥ßCardÂr¥¬¬y¤¸¥ó
-8.¤Ş¤Jbootstrap4«Ø¥ßFormÂr¥¬¬y¤¸¥ó
+è‡ªæˆ‘ç·´ç¿’Vue.jså¯¦ä½œSPAç¶²é ï¼š
+1.Vue cliå»ºç«‹å°ˆæ¡ˆ
+2.ä¸‹è¼‰bootstrap4å’Œsass loader
+2.ç†è§£Vueå°ˆæ¡ˆçš„é€²å…¥é»æ˜¯srcè³‡æ–™å¤¾çš„App.vue
+3.ç†è§£<router-view>æ¸²æŸ“å€‹åˆ¥å…ƒä»¶
+4.ç†è§£routerè³‡æ–™å¤¾çš„index.jså®šç¾©å€‹åˆ¥è·¯ç”±
+5.å»ºç«‹è·¯ç”±componentçš„Cardã€Form,åŠ ä¸Šé¦–é å…±ä¸‰é (SPA)
+6.å¼•å…¥bootstrap4å»ºç«‹é¦–é navbarå…ƒä»¶
+7.å¼•å…¥bootstrap4å»ºç«‹Cardç€‘å¸ƒæµå…ƒä»¶
+8.å¼•å…¥bootstrap4å»ºç«‹Formç€‘å¸ƒæµå…ƒä»¶
